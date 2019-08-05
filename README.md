@@ -24,6 +24,7 @@
 
 - **Rundeck**, Self-Service Operations Console
 - [**Loggly**](https://www.loggly.com/), Unified log analysis & log monitoring [github](https://github.com/melke/LogglyLogger-CocoaLumberjack)
+- [**CocoaLumberjack**](https://github.com/CocoaLumberjack/CocoaLumberjack), logging framework for Mac and iOS
 
 **Development**
 
