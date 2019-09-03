@@ -35,4 +35,11 @@
 **Blogs**
 
 - [**sparkbox**](https://seesparkbox.com/foundry/semantic_commit_messages), Semantic Commit Messages
-- [**Tell, Don't Ask**](https://thoughtbot.com/blog/tell-dont-ask), OOP
+- **Tell, Don't Ask**
+  * [Blog1](https://thoughtbot.com/blog/tell-dont-ask), OOP
+  * [Blog2](https://pragprog.com/articles/tell-dont-ask)
+  * [Blog3](https://martinfowler.com/bliki/TellDontAsk.html)
+
+**Swift**
+- [**Self in Swift**](https://dmitripavlutin.com/how-to-use-correctly-self-keyword-in-swift/)
+
