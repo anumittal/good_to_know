@@ -35,3 +35,4 @@
 **Blogs**
 
 - [**sparkbox**](https://seesparkbox.com/foundry/semantic_commit_messages), Semantic Commit Messages
+- [**Tell, Don't Ask**](https://thoughtbot.com/blog/tell-dont-ask), OOP
