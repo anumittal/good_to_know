@@ -43,3 +43,6 @@
 **Swift**
 - [**Self in Swift**](https://dmitripavlutin.com/how-to-use-correctly-self-keyword-in-swift/)
 
+**GIT**
+- [**Rename local and remote branch name**](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
+
