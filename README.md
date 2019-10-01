@@ -46,3 +46,11 @@
 **GIT**
 - [**Rename local and remote branch name**](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
 
+
+**Setting up new MAC for dev**
+- brew cask install sublime-text
+- brew cask install slack
+- brew cask install telegram
+- brew cask install time-out
+
+
