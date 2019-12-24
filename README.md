@@ -43,9 +43,11 @@
 **Swift**
 - [**Self in Swift**](https://dmitripavlutin.com/how-to-use-correctly-self-keyword-in-swift/)
 
+**iOS**
+- [**plistbuddy**] (https://marcosantadev.com/manage-plist-files-plistbuddy/)
+
 **GIT**
 - [**Rename local and remote branch name**](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
-
 
 **Setting up new MAC for dev**
 - brew cask install sublime-text
